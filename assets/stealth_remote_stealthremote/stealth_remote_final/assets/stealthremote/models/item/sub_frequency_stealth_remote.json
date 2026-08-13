@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "stealthremote:item/sub_frequency_stealth_remote"
-  }
-}
