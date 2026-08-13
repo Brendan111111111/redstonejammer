@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "redstonejammer:block/flux_inversion_projector"
-  }
-}
