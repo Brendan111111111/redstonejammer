@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "chronopulse:block/chrono_pulse_bottom",
+    "top": "chronopulse:block/chrono_pulse_top",
+    "side": "chronopulse:block/chrono_pulse_side"
+  }
+}

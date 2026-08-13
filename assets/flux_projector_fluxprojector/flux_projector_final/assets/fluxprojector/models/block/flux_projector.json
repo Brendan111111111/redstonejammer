@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "fluxprojector:block/flux_projector_bottom",
+    "top": "fluxprojector:block/flux_projector_top",
+    "side": "fluxprojector:block/flux_projector_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chronopulse:block/chrono_pulse_suppressor"
+    }
+  }
+}

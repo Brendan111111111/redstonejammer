@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "chronopulse:item/chrono_pulse_suppressor"
+  }
+}
