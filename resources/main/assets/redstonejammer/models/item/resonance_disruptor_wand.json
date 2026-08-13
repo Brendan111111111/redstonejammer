@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "redstonejammer:item/resonance_disruptor_wand"
+  }
+}
