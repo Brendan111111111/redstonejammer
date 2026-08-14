@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "redstonejammer:item/sub_frequency_stealth_remote"
+  }
+}
