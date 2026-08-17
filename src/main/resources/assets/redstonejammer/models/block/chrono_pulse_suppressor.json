@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "redstonejammer:block/chrono_pulse_suppressor"
+  }
+}

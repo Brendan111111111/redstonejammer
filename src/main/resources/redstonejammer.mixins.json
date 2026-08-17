@@ -1,0 +1,17 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.redstonejammer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "redstonejammer.refmap.json",
+  "mixins": [
+    "BlockStateBaseMixin",
+    "PistonBaseBlockMixin",
+    "RedstoneTorchBlockMixin",
+    "RedStoneWireBlockMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
